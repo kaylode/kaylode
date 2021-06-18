@@ -53,8 +53,8 @@
 ---
 
 <a><h2>:telephone_receiver: Contact me at </h2></a>
-<p align="center">  
-<img href="facebook.com/kaylode" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pmkhoi@selab.hcmus.edu.vn"/>
-<img href="facebook.com/kaylode" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-<img href="https://steamcommunity.com/id/Kaylode/" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-</p>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmkhoi@selab.hcmus.edu.vn)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook.com/Kaylode)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kaylode/)
+
