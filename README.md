@@ -4,31 +4,31 @@
  <img src="https://badges.pufler.dev/commits/monthly/kaylode" />
 </p>
 
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaylode</h1>
+<h3 align="center">I am currently a Computer Science student of Honors Program of University of Science, Ho Chi Minh city. I'm mostly studying and doing researches about ML/DL/AI.</h3>
 
-- My name is Minh-Khoi Pham, i am currently a Computer Science student of Honors Program of University of Science, Ho Chi Minh city. I'm mostly studying and doing researches about ML/DL/AI
+## 🚀 Languages and Tools:
 
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="" target="_blank"> <img height=50 src="https://github.com/isocpp/logos/blob/master/cpp_logo.png"/> </a> 
+    <a href="" target="_blank"> <img height=60 src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"/> </a> 
 
-
-<!-- ---
-<a><h2>Technologies</h2></a>
-<p>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
- -->
+
 ---
 
 <a><h2>🏆 Trophies</h2></a>
-<a>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kaylode&column=8&theme=onedark&no-bg=true&no-frame=true"/>
-</a>
+<p align="center">
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=kaylode&column=8&theme=onedark&no-bg=true&no-frame=true"/>
+</p>
+
+---
+
+<a><h2>:crossed_swords: Activities</h2></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaylode&theme=react)](https://git.io/streak-stats)
 
 ---
 
@@ -45,10 +45,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaylode&repo=vehicle-counting&show_owner&theme=react" />
 </a>
 
----
-
-<a><h2>:crossed_swords: Activities</h2></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaylode&theme=react)](https://git.io/streak-stats)
 
 ---
 
