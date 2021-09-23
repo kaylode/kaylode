@@ -60,8 +60,9 @@
     <a href="mailto:pmkhoi@selab.hcmus.edu.vn" target="_blank"> <img height=50 src="https://github.com/quintessence/slack-icons/blob/master/images/gmail-logo-slack-icon.png"/> 
     <a href="facebook.com/Kaylode" target="_blank"> <img height=50 src="https://github.com/quintessence/slack-icons/blob/master/images/facebook-logo-slack-icon.png"/> </a> 
     <a href="https://www.linkedin.com/in/kaylode/" target="_blank"> <img height=50 src="https://github.com/quintessence/slack-icons/blob/master/images/linkedin-logo-slack-icon.png"/> </a> 
-
-</a> 
-    
-
+     
 </p>
+
+
+
+
