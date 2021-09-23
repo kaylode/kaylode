@@ -8,6 +8,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaylode</h1>
 <h3 align="center">I am currently a Computer Science student of Honors Program of University of Science, Ho Chi Minh city. I'm mostly studying and doing researches about ML/DL/AI.</h3>
 
+<p align="center"> 
+    <a href="mailto:pmkhoi@selab.hcmus.edu.vn" target="_blank"> <img height=50 src="./svg/envelope.svg"/> 
+    <a href="facebook.com/Kaylode" target="_blank"> <img height=50 src="./svg/facebook.svg"/> </a> 
+    <a href="https://www.linkedin.com/in/kaylode/" target="_blank"> <img height=50 src="./svg/linkedin.svg"/> </a> 
+    <a href="https://discordapp.com/users/326944513396441089" target="_blank"> <img height=50 src="./svg/discord.svg"/> </a> 
+</p>
+
 ## 🚀 Languages, tools and Platforms:
 
 <center>
@@ -56,12 +63,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook.com/Kaylode)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kaylode/) -->
 
-<p align="center"> 
-    <a href="mailto:pmkhoi@selab.hcmus.edu.vn" target="_blank"> <img height=50 src="https://github.com/quintessence/slack-icons/blob/master/images/gmail-logo-slack-icon.png"/> 
-    <a href="facebook.com/Kaylode" target="_blank"> <img height=50 src="https://github.com/quintessence/slack-icons/blob/master/images/facebook-logo-slack-icon.png"/> </a> 
-    <a href="https://www.linkedin.com/in/kaylode/" target="_blank"> <img height=50 src="https://github.com/quintessence/slack-icons/blob/master/images/linkedin-logo-slack-icon.png"/> </a> 
-     
-</p>
+
 
 
 
