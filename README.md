@@ -1,7 +1,8 @@
+
+
 <p align="center">
  <img src="https://badges.pufler.dev/visits/kaylode/kaylode"/> 
  <img src="https://badges.pufler.dev/repos/kaylode"/>
- <img src="https://badges.pufler.dev/commits/monthly/kaylode" />
 </p>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
@@ -56,3 +57,4 @@
 
 
 ---
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
