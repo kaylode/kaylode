@@ -11,7 +11,7 @@
 
 <p align="center"> 
     <a href="mailto:pmkhoi@selab.hcmus.edu.vn" target="_blank"> <img height=50 src="./svg/envelope.svg"/> 
-    <a href="facebook.com/Kaylode" target="_blank"> <img height=50 src="./svg/facebook.svg"/> </a> 
+    <a href="https://facebook.com/Kaylode" target="_blank"> <img height=50 src="./svg/facebook.svg"/> </a> 
     <a href="https://www.linkedin.com/in/kaylode/" target="_blank"> <img height=50 src="./svg/linkedin.svg"/> </a> 
     <a href="https://discordapp.com/users/326944513396441089" target="_blank"> <img height=50 src="./svg/discord.svg"/> </a> 
 </p>
