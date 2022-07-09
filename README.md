@@ -1,10 +1,5 @@
 
 
-<p align="center">
- <img src="https://badges.pufler.dev/visits/kaylode/kaylode"/> 
- <img src="https://badges.pufler.dev/repos/kaylode"/>
-</p>
-
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaylode</h1>
 <h3 align="center">I am currently a Computer Science student of Honors Program of University of Science, Ho Chi Minh city. I'm mostly studying and doing researches about ML/DL/AI.</h3>
@@ -15,14 +10,6 @@
     <a href="https://www.linkedin.com/in/kaylode/" target="_blank"> <img height=50 src="./svg/linkedin.svg"/> </a> 
     <a href="https://discordapp.com/users/326944513396441089" target="_blank"> <img height=50 src="./svg/discord.svg"/> </a> 
 </p>
-
-## 🚀 Languages, tools and Platforms:
-
-<center>
- 
-| Languages | Platforms | Tools |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| <img height=60 src="https://img.icons8.com/color/48/000000/python.png"/> <img height=60 src="https://github.com/isocpp/logos/blob/master/cpp_logo.png"/> <img height=80 src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"/> </a> | <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/microsoft-logo-slack.png"/> <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/tux-linux-logo-slack-icon.png"/> <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/android-slack-icon.png"/> | <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/postgres-logo-slack-icon.png"/> <img height=60 src="https://github.com/quintessence/slack-icons/blob/master/images/github-logo-slack-icon.png"/> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png"/> <img height=60 src="https://user-images.githubusercontent.com/819186/51553744-4130b580-1e7c-11e9-889e-486937b69475.png"/> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/> <img height=60 src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"/> <img height=60 src="https://colab.research.google.com/img/colab_favicon_256px.png"/> |
  
  
 </center>
